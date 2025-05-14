@@ -1,0 +1,23 @@
+    <!--SEO-->
+    <script type="application/id=json">  
+        {
+            "@context:https://scheme.org",
+            "@type":"Product",
+            "name":"phone"
+            "brand":"something"
+        }
+    </script>
+
+
+
+    @function px to rem($px, $base:16)
+return ($px / $base)*1rem
+h1{
+    font-size: px-rem(32);
+}
+
+
+git init
+git branch -M main
+copy url
+git remote add origin https://github.com/PrajwalGitCode/firstint.git
