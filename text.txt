@@ -17,7 +17,11 @@ h1{
 }
 
 
+
+-------------------
 git init
+git add .
+git commit -m "first commit"
 git branch -M main
-copy url
 git remote add origin https://github.com/PrajwalGitCode/firstint.git
+git push -u origin main
